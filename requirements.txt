@@ -2,6 +2,5 @@ voila
 fastai2>=0.0.16
 pillow<7
 packaging
---find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.3.1+cpu
+torch==1.2.1+cpu
 ipywidgets==7.5.1
