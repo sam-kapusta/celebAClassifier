@@ -6,6 +6,6 @@ Jupyter Notebook(Used for Training): https://github.com/cabbagelover25/imageRecT
 ## Web App
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cabbagelover25/celebAClassifier/master?filepath=voila%2Frender%2FMultuClassifier.ipynb)
 
-The link above should load, however if not this is how the Web App usually looks, a pdf of the entire page is included above.
 
 ![Web App Layout](layout.png)
+The link above should load, however if not this is how the Web App usually looks, a pdf of the entire page is included above.
