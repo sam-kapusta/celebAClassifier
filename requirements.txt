@@ -1,7 +1,9 @@
-voila
-fastai2>=0.0.16
-fastprogress>=0.1.22
-pillow<7
-packaging
-ipywidgets==7.5.1
-python>=3.6
+fastai2>=0.0.11
+graphviz
+ipywidgets
+matplotlib
+nbdev>=0.2.12
+pandas
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+sentencepiece
